@@ -1,5 +1,3 @@
----
-
 # 👋 Hello, I'm Ian Fleming (@ibfleming)
 
 ## About Me
