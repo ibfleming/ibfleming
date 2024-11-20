@@ -1,5 +1,3 @@
-# README.md
-
 ## Greetings! 👋  
 Hi, I'm Ian Fleming, a Computer Science graduate from the University of Idaho. I’m passionate about programming, software development, and exploring innovative technologies.  
 
