@@ -17,7 +17,7 @@ I've built **dynamic commercial websites**, **robust CMS platforms**, and **imme
 
 ### 📫 Let's Connect!  
 - **LinkedIn**: [ianbfleming](www.linkedin.com/in/ianbfleming)  
-- **GitHub**: [ibfleming]([https://github.com](https://github.com/ibfleming))  
+- **GitHub**: [ibfleming](https://github.com/ibfleming)
 - **Email**: ianfleming678@gmail.com
 
 🚀 I’m actively exploring opportunities to define my niche within the software industry and eager to grow through hands-on experience. Feel free to reach out.
