@@ -16,7 +16,7 @@ I've built **dynamic commercial websites**, **robust CMS platforms**, and **imme
 - **Honestly lost track at this point... 🫡**  
 
 ### 📫 Let's Connect!  
-- **LinkedIn**: [ianbfleming](www.linkedin.com/in/ianbfleming)  
+- **LinkedIn**: [ianbfleming](https://www.linkedin.com/in/ianbfleming/)
 - **GitHub**: [ibfleming](https://github.com/ibfleming)
 - **Email**: ianfleming678@gmail.com
 
